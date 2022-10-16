@@ -7,7 +7,7 @@ from models.board import Board
 pygame.init()
 
 pygame.display.set_caption("checkerboard")
-WIN = pygame.display.set_mode((WIDTH, HEIGHT))
+WIN = pygame.display.set_mode((850, HEIGHT))
 
 def main():
 
