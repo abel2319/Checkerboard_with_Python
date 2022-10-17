@@ -10,4 +10,4 @@ SQUARE_SIZE = WIDTH // COLS
 '''Colors'''
 WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
-BLUE = (0, 0, 255)
+BLUE = (214, 158, 224)
