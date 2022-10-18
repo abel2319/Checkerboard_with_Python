@@ -22,3 +22,5 @@ class Board:
                                               col * SQUARE_SIZE, SQUARE_SIZE,
                                               SQUARE_SIZE))
 
+    def fill_board(self):
+         
